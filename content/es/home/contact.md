@@ -29,7 +29,7 @@ type = "text"
 # minimum input length
 minlength = "3"
 # maxlength = "25"
-name = "nombre"
+name = "name"
 # pattern matching
 pattern = "[a-zA-Z]+"
 placeholder = "Nombre"
@@ -39,7 +39,7 @@ placeholder = "Nombre"
 [[inputs]]
 label = "Tu correo"
 type = "email"
-name = "correo"
+name = "email"
 # pattern = ""
 placeholder = "Correo"
 required = true
