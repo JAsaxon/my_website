@@ -29,7 +29,6 @@ type = "text"
 # minimum input length
 name = "name"
 # pattern matching
-pattern = "[a-zA-Z]+"
 placeholder = "Nombre"
 # The input is required to submit the form
 # required = true
