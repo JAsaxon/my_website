@@ -27,8 +27,6 @@ label = "Tu nombre"
 # Input type
 type = "text"
 # minimum input length
-minlength = "3"
-# maxlength = "25"
 name = "name"
 # pattern matching
 pattern = "[a-zA-Z]+"
