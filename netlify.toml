@@ -1,11 +1,10 @@
 [build]
-command = "hugo --gc"
+command = "hugo"
 publish = "public/"
 
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV = "production"
-HUGO_VERSION = "0.79.0"
 NODE_VERSION = "v12.19.0"
 
 [context.split1]
