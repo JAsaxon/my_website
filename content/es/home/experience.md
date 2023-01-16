@@ -6,24 +6,24 @@ weight = 20  # Order that this section will appear.
 # hidden = true
 
 # Widget title
-title = "My dificil camino..."
+title = "Mi difícil camino..."
 # Widget subtitle
 subtitle = "Nadie puede entender por lo que pasaste... excepto alguien que paso por lo mismo"
 
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 [[period]]
-  title = "Empiezo mi mision..."
+  title = "Empiezo mi misión..."
   subtitle = ""
   date_start = "2022-10-12"
   date_end = ""
-  description = "El dolor y la preocupacion por la que se pasa lo hice mi mision ayudar a que nadie tenga que pasar por eso solo..."
+  description = "El dolor y la preocupación por la que se pasa lo hice mi misión ayudar a que nadie tenga que pasar por eso solo..."
 [[period]]
   title = "Termina el terror"
-  subtitle = "Termina el sufriemento"
+  subtitle = "Termina el sufrimiento"
   location = "Ciudad de Mexico"
   date_start = "2022-10-12"
   date_end = ""
-  description = "Han pasado 14 Quimeoterapias han pasado 31 Radioterapia y 2 Sirugias Extremas de 12 Horas cada una pero despues de todo eso por fin termino el tratamiento  "
+  description = "Han pasado 14 Quimioterapias han pasado 31 Radioterapia y 2 Cirugías Extremas de 12 Horas cada una pero después de todo eso por fin termino el tratamiento  "
 
 [[period]]
   title = "Mi hijo es diagnosticado Con cancer"

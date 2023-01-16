@@ -10,7 +10,7 @@ paginate = 10
 theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
-title = 'Judith Galvan Berrum'
+title = 'Judith Galvan Berrúm'
 
 [params]
 customCSS = [
@@ -42,12 +42,7 @@ url = "mailto:judithgb71@gmail.ocm"
 
 
 
-[[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/"
+
 
 [[params.social]]
 alt = "facebook icon"

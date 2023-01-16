@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/img.jpg"
 
 # Buttons
 # Add as much button as you want
@@ -15,17 +15,17 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Know more"
+  label = "Aprender Más"
 	# Primary color
 	primary = true
 
 [[btn]]
   url = "#contact"
-  label = 'Contact me'
+  label = 'Contáctame'
 
 +++
 
-# Judith Galvan Berrum
+# Judith Galván Berrum
 ## Terapeuta y *mamá*
 La vida
 
