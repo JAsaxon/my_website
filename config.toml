@@ -38,7 +38,8 @@ icon = "/icons/email.svg"
 name = "email"
 url = "mailto:judithgb71@gmail.ocm"
 
-
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
 
 
 
