@@ -26,6 +26,6 @@ hero_media = "/img/img.jpg"
 +++
 
 # Judith Galván Berrum
-## Terapeuta y *mamá*
+## Terapeuta y *mamá*, Egresada de la UDLA en psicología clínica
 La vida
 
