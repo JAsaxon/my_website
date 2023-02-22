@@ -27,5 +27,6 @@ hero_media = "/img/img.jpg"
 
 # Judith Galván Berrum
 ## Terapeuta y *mamá*, Egresada de la UDLA en psicología clínica
-La vida
+Psicóloga clínica de la UDLA Con el objetivo de Ayudar a familiares y pacientes de personas en situación de hospitalizaciones largas.
+
 

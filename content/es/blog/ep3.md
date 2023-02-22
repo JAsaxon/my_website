@@ -4,7 +4,7 @@ tags = ['Video']
 date = 2020-10-12
 
 # For description meta tag
-description = "Recipe of the legendary Krabby Patty."
+description = "El Tercer Episodio de mi historia siendo la mama de un hijo con cancer"
 
 # Comment next line and the default banner wil be used.
 banner = 'img/ep3.jpg'
