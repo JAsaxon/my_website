@@ -971,12 +971,12 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / var(--tw-bg-opacity)); }
 
+.bg-primary {
+  background-color: var(--color-primary); }
+
 .bg-green-300 {
   --tw-bg-opacity: 1;
   background-color: rgb(154 230 180 / var(--tw-bg-opacity)); }
-
-.bg-primary {
-  background-color: var(--color-primary); }
 
 .bg-accent {
   background-color: var(--color-accent); }
@@ -1141,11 +1141,11 @@ video {
 .font-semibold {
   font-weight: 600; }
 
-.font-light {
-  font-weight: 300; }
-
 .font-normal {
   font-weight: 400; }
+
+.font-light {
+  font-weight: 300; }
 
 .uppercase {
   text-transform: uppercase; }

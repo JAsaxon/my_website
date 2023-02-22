@@ -11,13 +11,13 @@ hero_media = "/img/img.jpg"
 
 # Buttons
 # Add as much button as you want
-[[btn]]
-	# The url of the button
-  url = "/about"
-	# The text of the button
-  label = "Aprender Más"
-	# Primary color
-	primary = true
+# [[btn]]
+#	# The url of the button
+#  url = "/about"
+# The text of the button
+# label = "Aprender Más"
+#	# Primary color
+#	primary = true
 
 [[btn]]
   url = "#contact"
